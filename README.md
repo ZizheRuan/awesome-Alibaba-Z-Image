@@ -2,14 +2,16 @@
 
 ⭐ Please Star or Watch this project for future updates!
 
-last updated: Nov 28th 2025. 
+last updated: Nov 29th 2025. 
 
 ## 💡 Where can I try Z-Image?
 It is recommended to try for free on [z-image-edit.com](https://z-image-edit.com/) with a collection of artist-crafted built-in prompts.
 
 ## 🔍 Introduction
 awesome-Alibaba-Z-Image is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the [Z-Image model](https://github.com/Tongyi-MAI/Z-Image).  
+
 Z-Image contains 3 models:  Z-Image-Turbo,  Z-Image-Base, Z-Image-Edit
+
 This repository aims to help creators, researchers, and prompt engineers better understand how to craft effective prompts for this model. Similar repo [awesome-nano-banana-pro-prompts-and-examples](https://github.com/ZizheRuan/awesome-nano-banana-pro-prompts-and-examples).
 
 
