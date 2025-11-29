@@ -31,6 +31,7 @@ This project serves as a practical reference for anyone experimenting with the Z
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
+  - [Case 6: Emoji as prompt（by @Norod78）](#case-6-emoji-as-promptby-norod78)
   - [Case 5: Woman drinking coffee from a cup with "Z-Image" on it（by @BrentLynch）](#case-5-woman-drinking-coffee-from-a-cup-with-z-image-on-itby-brentlynch)
   - [Case 4: Futuristic Mediterranean cliffside village at sunset（by @edankwan）](#case-4-futuristic-mediterranean-cliffside-village-at-sunsetby-edankwan)
   - [Case 3: Portrait of an elderly African woman sitting（by @edankwan）](#case-3-portrait-of-an-elderly-african-woman-sittingby-edankwan)
@@ -40,6 +41,18 @@ This project serves as a practical reference for anyone experimenting with the Z
 
 
 ## ✨ Cases
+
+
+### Case 6: [Emoji as prompt](https://x.com/Norod78/status/1994363241779138805)（by [@Norod78](https://x.com/Norod78)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="500" alt="Input Image"> | <img src="images/6_o.jpg" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+👽🥔
+```
 
 
 ### Case 5: [Woman drinking coffee from a cup with "Z-Image" on it](https://x.com/BrentLynch/status/1993732411230912954)（by [@BrentLynch](https://x.com/BrentLynch)）
