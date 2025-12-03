@@ -31,6 +31,8 @@ This project serves as a practical reference for anyone experimenting with the Z
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
+  - [Case 8: Astronaut riding a horse on Mars（by @ZizheRuan）](#case-8-astronaut-riding-a-horse-on-marsby-zizheruan)
+  - [Case 7: Young Chinese woman in red Hanfu（by @ZizheRuan）](#case-7-young-chinese-woman-in-red-hanfuby-zizheruan)
   - [Case 6: Emoji as prompt（by @Norod78）](#case-6-emoji-as-promptby-norod78)
   - [Case 5: Woman drinking coffee from a cup with "Z-Image" on it（by @BrentLynch）](#case-5-woman-drinking-coffee-from-a-cup-with-z-image-on-itby-brentlynch)
   - [Case 4: Futuristic Mediterranean cliffside village at sunset（by @edankwan）](#case-4-futuristic-mediterranean-cliffside-village-at-sunsetby-edankwan)
@@ -41,6 +43,31 @@ This project serves as a practical reference for anyone experimenting with the Z
 
 
 ## ✨ Cases
+
+
+
+### Case 8: [Astronaut riding a horse on Mars](https://z-image-edit.com/)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="500" alt="Input Image"> | <img src="images/8_o.webp" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+Astronaut riding a horse on Mars, cinematic lighting, sci-fi concept art, highly detailed
+```
+
+
+### Case 7: [Young Chinese woman in red Hanfu](https://z-image-edit.com/)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="500" alt="Input Image"> | <img src="images/7_o.webp" width="500" alt="Output Result"> |
+
+**prompt:**
+```
+Young Chinese woman in red Hanfu, intricate embroidery. Impeccable makeup, red floral forehead pattern. Elaborate high bun, golden phoenix headdress, red flowers, beads. Holds round folding fan with lady, trees, bird. Neon lightning-bolt lamp, bright yellow glow, above extended left palm. Soft-lit outdoor night background, silhouetted tiered pagoda, blurred colorful distant lights.
+```
 
 
 ### Case 6: [Emoji as prompt](https://x.com/Norod78/status/1994363241779138805)（by [@Norod78](https://x.com/Norod78)）
@@ -123,3 +150,8 @@ A rainy neon lit street in Tokyo at night, viewed from low angle at pedestrian e
 All images and prompts included here are collected from **publicly shared sources** or generated through legitimate Apps/APIs**.  
 This repository does **not** host internal, leaked, or proprietary data.
 Cases come from X.com, RedNote and other social media. Copyrights credits to original authors and artists.
+
+command to generate menu:
+```
+python scripts/update_toc.py
+```
